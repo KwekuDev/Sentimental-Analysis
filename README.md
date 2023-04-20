@@ -5,6 +5,7 @@ Install Anaconda and run with Jupyter Notebook
 
 In this Analysis, 3 different Deep Learning Models were Used
 
+EMERGING TOPICS IN COMPUTING
 
 
-TENKORANG DANIEL - 10659057
+Kweku Boadu - B00552235
